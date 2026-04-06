@@ -232,7 +232,7 @@ Dataset is publicly available under the [CC BY-NC-SA 4.0](https://creativecommon
 
 **Amanda**  
 MS Data Analytics  
-📧 [your.email@example.com] | 🔗 [linkedin.com/in/yourprofile] | 🐙 [github.com/yourusername]
+📧 [karen.ehui@gmail.com] | 🔗 [linkedin.com/in/amanda-udeogu-mba-ms-6411271ba/] | 🐙 [github.com/amandaudeogu]
 
 ---
 
